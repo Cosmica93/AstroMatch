@@ -255,6 +255,16 @@ div {
     justify-content: space-around;
 }
 
+.equipo:hover {-webkit-transform:scale(1.3);transform:scale(0.9);}
+.equipo {overflow:hidden;}
+
+.equipo1:hover {-webkit-transform:scale(1.3);transform:scale(0.9);}
+.equipo1 {overflow:hidden;}
+
+.equipo2:hover {-webkit-transform:scale(1.3);transform:scale(0.9);}
+.equipo2 {overflow:hidden;}
+
+
 /*vista tablet*/
 @media screen and (max-width: 768px) {
     .titulo {
@@ -717,7 +727,9 @@ legend {
     flex-direction: column;
     margin: 20px;
     align-items: center;
+    
 }
+
 
 .cardDos {
     grid-area: cardDos;
@@ -765,6 +777,9 @@ legend {
     display: flex;
     flex-direction: column;
 }
+
+.imgCard:hover {-webkit-transform:scale(1.3);transform:scale(0.9);}
+.imgCard {overflow:hidden;}
 
 .footer {
     display: grid;
