@@ -7,13 +7,13 @@ body {
 /*fuentes*/
 @font-face {
     font-family: Roxboroughcf;
-    src: url('../fonts/RoxboroughCF-Regular.otf');
+    src: url("/fonts/RoxboroughCF-Regular.otf");
 }
 
 @font-face {
     font-family: Roxboroughcf;
     font-weight: bold;
-    src: url('../fonts/RoxboroughCF-Bold.otf');
+    src: url("/fonts/RoxboroughCF-Bold.otf");
 }
 
 
