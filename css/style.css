@@ -859,7 +859,6 @@ legend {
     grid-area: div;
     padding: 10px;
     cursor: pointer;
-    /*border-radius: 15px; */
     border-color: rgb(118, 21, 167);
     background: rgb(238, 174, 202);
     background: linear-gradient(90deg, rgba(238, 174, 202, 1) 6%, rgba(148, 187, 233, 1) 100%);
